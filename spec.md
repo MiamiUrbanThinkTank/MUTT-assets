@@ -11,14 +11,14 @@ The "stack" is the list of systems that are used to make your website work. I li
 * Web Host
 	- [Siteground](http://www.siteground.com/wordpress-hosting.htm?afcode=af67d756d15d1e67907ce65f3bbe8e03&utm_expid=339965-8.yOg9KVp7QF2SGE_wdchlCw.0&utm_referrer=http%3A%2F%2Fwww.wpbeginner.com%2Fwordpress-hosting%2F) looks like the best choice of web host for MUTT. They seem to be very affordable with great speeds, great reviews, and good customer service.
 * Wordpress
-	* Wordpress - a php based blogging framework. For this website, I am going to install to a server a "vanilla" version of wordpress, migrate your existing blog posts and data in to the new wordpress install, and then modify the wordpres theme and setup so that is is functional and visually appealing to your tastes. 
+	* Wordpress - a php based blogging framework. For this website, I am going to install to a server a "vanilla" version of wordpress, migrate your existing blog posts and data in to the new wordpress install, and then create a unique wordpres theme and setup so that is is functional and visually appealing to your tastes. 
 	* Plugins
 		- Social media plugin
 		- Plugins to support media formats
 	* Transferring posts should be simple. And it won't be destructive, either, as your blogger data will perist on Google's servers.
 * Design and Themes
 	* Twitter Bootstrap for front end framework
-	* Deep customizations to the base theme, to the point of having a new, unique theme
+	* Deep customizations to the base twitter bootstrap theme, to the point of having a new, unique theme
 
 ### Site Layout, hierarchy of pages and features (Work in progress)
 
